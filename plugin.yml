@@ -1,0 +1,7 @@
+name: SuperMOTD
+main: tk.complexicon.supermotd.Main
+version: 0.1
+commands:
+   reloadmotd:
+      description: Reloads MOTD Entries.
+      usage: /<command>
